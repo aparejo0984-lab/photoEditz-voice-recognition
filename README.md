@@ -1,4 +1,4 @@
-# 🎨 Voice Smart Image Editor
+# 🎙️ Voice Smart Image Editor ✒️
 
 Edit images manually or use voice commands with the Voice Smart Image Editor. This project integrates a voice assistant based on JavaScript for image editing and offers various features for an enhanced user experience.
 
